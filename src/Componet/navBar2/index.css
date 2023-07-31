@@ -1,0 +1,23 @@
+.navBar2 {
+  color: #ffff;
+  text-align: center;
+  margin: auto;
+  color: #a4a4a4;
+  max-width: 1000px;
+  border: 1px solid #a4a4a4;
+  border-radius: 25px;
+  line-height: 1.2;
+  background-color: #313131;
+  height: 82vh;
+  padding-top: 50px;
+}
+.navBar2 ul li {
+  font-size: 40px;
+  font-family: Manrope, sans-serif;
+  list-style: none;
+  transition: 0.3s;
+}
+.navBar2 ul li:hover {
+ transform: scale(1.5);
+ color: #ffff;
+}

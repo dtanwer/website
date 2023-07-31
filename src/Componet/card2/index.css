@@ -1,0 +1,33 @@
+.card2 img{
+    width: 500px;
+    margin: 0;
+}
+.card2{
+    position: relative;
+}
+.card2 .floating :nth-child(1){
+    width: 80px;
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+}
+.card2 .floating :nth-child(2){
+    width: 400px;
+    margin-left: 280px;
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+}
+.card2 .floating{
+    position: absolute;
+    top:230px
+}
+@keyframes float {
+    0% {
+      transform: translatey(0px);
+    }
+    50% {
+      transform: translatey(-20px);
+    }
+    100% {
+      transform: translatey(0px);
+    }
+  }

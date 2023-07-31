@@ -1,0 +1,20 @@
+.nav{
+    padding: 10px;
+}
+.nav2{
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+}
+.available{
+    margin-top: 50px;
+    
+}
+
+.content h1{
+    color: #ffff;
+    opacity: 1; 
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+
+}

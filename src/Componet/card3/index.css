@@ -1,0 +1,14 @@
+.card3{
+    width: 350px;
+    margin-top: 120px;
+}
+.card3 .text{
+    width: 200px;
+    margin: auto;
+}
+.card3 .social img{
+    margin: 5px;
+}
+.card3 .social{
+    text-align: center;
+}
