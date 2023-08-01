@@ -6,7 +6,7 @@ function Content() {
       <h1>This is Nebulos</h1>
         <div className="smallContent">
           Showcase your next App in Style using this beautifully crafted
-          Template specifically designeed for hgghApps.
+          Template specifically designeed for Apps.
         </div>
     </div>
   );
